@@ -76,7 +76,7 @@
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
     "preact-render-to-json": "^3.6.6",
-    "prettier": "^1.16.4",
+    "prettier": "^2.2.1",
     "prop-types": "^15.7.2",
     "puppeteer": "^1.18.1",
     "rimraf": "^3.0.0",
